@@ -126,3 +126,17 @@ label{
 .gender-label #female{
     margin-left: 2rem;
 }
+
+/* Date*/
+
+select{
+    padding: 2px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    font: normal normal normal 14px Roboto;
+    letter-spacing: 0px;
+    color: #42515f;
+    background-color: transparent;
+    margin: 0 0.15rem;
+}
