@@ -89,3 +89,19 @@ form-content{
     resize: vertical;
 
 }
+
+/* profile picture*/
+.profile-radio-content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.profile{
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 8px;
+}
+.profile-label{
+    margin-right: 20px;
+}
